@@ -14,6 +14,18 @@
 
 <hr>
 
+<h2>PCB and Schematic</h2>
+
+<p align="center">
+  <img width="839" height="827" alt="PCB" src="https://github.com/user-attachments/assets/b32d6810-f02c-4f04-b270-b12eb4f2688b" />
+</p>
+
+<p align="center">
+  <img width="1032" height="448" alt="Schematic" src="https://github.com/user-attachments/assets/47f66f6c-39fd-4058-b139-4b549c326861" />
+</p>
+
+<hr>
+
 <h2>Bill of Materials:</h2>
 
 <ul>
@@ -30,7 +42,7 @@
 </ul>
 
 <p>
-  small amount of spare wire apprx. 200mm worth.
+  small amount of spare wire apprx. 50mm worth.
 </p>
 
 <hr>
@@ -52,5 +64,3 @@
   <li>Solder display to the breakout cables</li>
   <li>Use double-sided tape or a light adhesive to hold the OLED into its holder,.</li>
 </ol>
-
-
