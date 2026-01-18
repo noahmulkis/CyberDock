@@ -1,7 +1,7 @@
 <h1 align="center">CyberDock</h1>
 
 <p align="center">
-  Welcome to CyberDock, my custom 3D printed Macropad that runs KMK or QMK firmware.
+  Welcome to CyberDock, my custom 3D printed Macropad that runs KMK firmware.
 </p>
 
 <p align="center">
