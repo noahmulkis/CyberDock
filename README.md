@@ -21,7 +21,8 @@
 </p>
 
 <p align="center">
-  <img width="1032" height="448" alt="Schematic" src="https://github.com/user-attachments/assets/47f66f6c-39fd-4058-b139-4b549c326861" />
+  <img width="1032" height="448" alt="Schematic" src="https://github.com/user-attachments/assets/b46680c7-6786-48de-bf1c-6fb5e26a1179" />
+" />
 </p>
 
 <hr>
