@@ -62,6 +62,13 @@
     Clamshell the base around the PCB, passing the breakout cables through the small hole in the gap for the display
     in the top half of the case, then use the M3x16 machine screws to clamp the assembly together.
   </li>
+
+ 
+
   <li>Solder display to the breakout cables</li>
   <li>Use double-sided tape or a light adhesive to hold the OLED into its holder,.</li>
+
+  
 </ol>
+ <img width="2452" height="1379" alt="image" src="https://github.com/user-attachments/assets/86422134-b43e-46da-95b3-39a9b9a38775" />
+ <img width="2452" height="1379" alt="image" src="https://github.com/user-attachments/assets/9b084e8a-2086-4db3-86c4-1d39cc7725c2" />
